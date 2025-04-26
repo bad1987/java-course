@@ -61,7 +61,7 @@ This course provides a comprehensive introduction to Java programming for beginn
    - Concurrent collections
    - Locks and atomic variables
 
-10. **Java Network Programming** (Coming soon)
+10. **Java Network Programming**
     - Networking basics
     - Sockets programming
     - URL connections
@@ -86,5 +86,5 @@ Start with section 1 and progress sequentially through the course. Complete all 
 
 ## Course Progress
 
-- Sections 1-9 are complete with examples and exercises
-- Section 10 is coming soon
+- All sections (1-10) are complete with examples and exercises
+- The course is now complete!
